@@ -1,0 +1,11 @@
+# Ignore Direnv
+.envrc*
+
+# Ignore Goland
+.idea
+
+# Ignore binary
+go-web
+
+# Ignore Go Workspace 
+go.work
