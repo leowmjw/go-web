@@ -1,5 +1,3 @@
-module boilerplate
+module app
 
-go 1.14
-
-require github.com/gofiber/fiber v1.13.3
+go 1.22.3
