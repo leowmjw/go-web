@@ -9,3 +9,10 @@ go-web
 
 # Ignore Go Workspace 
 go.work
+
+# Ignore IDX
+# .idx
+
+# Ignore VSCode
+.vscode
+
